@@ -1,0 +1,6 @@
+{
+  "name": "ServiceHub - Smart Service Management Platform",
+  "description": "Production-grade MERN stack service management platform for bookings, technician dispatch, real-time tracking, AI diagnostics, and business analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
